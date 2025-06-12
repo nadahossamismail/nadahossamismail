@@ -1,16 +1,25 @@
-## Hi there 👋
+ <h1 align="center"> 👩‍💻 Hi, I am Nada Hossam </h1>
+<h3 align="center"> Mobile App Developer | Flutter Enthusiast </h3>
 
-<!--
-**nadahossamismail/nadahossamismail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Junior Mobile App Developer with a degree in Computer Engineering from Mansoura University . 
+- 💡 Passionate about building clean, user-focused mobile apps using **Flutter**.
+- 🧠 Working to expand my knowledge in **clean architecture** and **design patterns**. 
+- 🤝 Looking for **internships** or **junior roles** where I can grow, contribute, and collaborate
+  
+
+## 🛠️ Tech Stack  
+- **Mobile Development:** Flutter | Dart | Firebase | RESTful APIs | Bloc
+- **Programming:** Dart | Java | Python  
+- **Tools & Platforms:** Git | GitHub | Figma | Postman
+- **Concepts:** OOP | Clean Architecture | Responsive UI | Design Patterns | Agile 
+
+
+
+## 📬 Get in Touch  
+💼 [LinkedIn](https://linkedin.com/in/nada-hossam-ismail)  
+📧 Email: nadahossamismail@gmail.com  
+
+---
+
